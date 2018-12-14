@@ -15,3 +15,4 @@ In this repository, you can find  the following:
 -The photo of the first exhibition of the project at ITCG: "Team DeimosSoft.png"
 
 If you want, you can also see the project working in this link: https://1drv.ms/v/s!AmPRXoLY6bUU6SoeN8zXy2XYreSm
+Note: the previous link contains a video that is explained in Spanish.
